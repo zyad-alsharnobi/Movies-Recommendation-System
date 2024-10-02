@@ -49,6 +49,4 @@ The Streamlit app provides an interactive interface where users can input their 
    ```bash
    streamlit run app.py
 
-## License
-This project is licensed under the MIT License.
 
